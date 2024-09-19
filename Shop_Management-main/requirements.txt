@@ -1,0 +1,8 @@
+pandas==2.2.0
+streamlit
+pandas 
+scikit-learn
+matplotlib.pyplot as pl
+numpy 
+mlxtend
+
